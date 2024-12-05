@@ -1,11 +1,31 @@
-﻿<?xml version="1.0" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Application Title="Doanvat">
   <BOModel>
     <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
   </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="@652a5720-a2e7-4f90-9013-6d33d7712686" Caption="Quản Lí" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@231e9906-87a1-46b0-97c2-73da56937abe" ViewId="Chamcong_ListView" Caption="Chấm Công" IsNewNode="True" />
+          <Item Id="@30b0a2d1-add7-42f4-95e9-a68d6391fe62" Caption="Phiếu Nhập" ViewId="Phieunhap_ListView" IsNewNode="True" />
+          <Item Id="@5034ce58-31ab-4192-abcb-383e98d8f3c9" Caption="Nhân Viên" ViewId="Nhanvien_ListView" IsNewNode="True" />
+          <Item Id="@7617f7ca-dd17-4d4f-8cfc-e78e9f736375" Caption="Bảng Lương" ViewId="Bangluong_ListView" IsNewNode="True" />
+          <Item Id="@83c96683-bc6c-49ef-b1e2-16ca0ed14157" Caption="Phiếu Chi" ViewId="Phieuchi_ListView" IsNewNode="True" />
+          <Item Id="@a2003a00-be75-4eb3-91df-5e18ed180431" Caption="Nhà Cung Cấp" ViewId="Nhacungcap_ListView" IsNewNode="True" />
+          <Item Id="@ce5f8d1f-4b69-48fe-8533-8f9fa2e98eb5" Caption="Hàng Hóa" ViewId="Hanghoa_ListView" IsNewNode="True" />
+          <Item Id="@dc6e92bb-8cc1-40df-bc51-35a9d018c218" Caption="Tài Khoản Khách Hàng" ViewId="Khachhang_ListView" IsNewNode="True" />
+          <Item Id="@ff0f971b-9717-4d21-8842-73feedeacd21" Caption="Hóa Đơn" ViewId="Hoadon_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
   <Options>
     <LayoutManagerOptions RequiredFieldMark="*" />
   </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.7.0" IsNewNode="True" />
+  </SchemaModules>
   <Views>
     <ListView Id="ApplicationUser_ListView" Caption="Users" />
   </Views>

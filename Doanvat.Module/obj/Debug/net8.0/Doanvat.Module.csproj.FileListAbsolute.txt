@@ -10,3 +10,16 @@ D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.dll
 D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\refint\Doanvat.Module.dll
 D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.pdb
 D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\ref\Doanvat.Module.dll
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\bin\Debug\net8.0\Doanvat.Module.deps.json
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\bin\Debug\net8.0\Doanvat.Module.dll
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\bin\Debug\net8.0\Doanvat.Module.pdb
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.csproj.AssemblyReference.cache
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.AssemblyInfoInputs.cache
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.AssemblyInfo.cs
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.csproj.CoreCompileInputs.cache
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.sourcelink.json
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.dll
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\refint\Doanvat.Module.dll
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.pdb
+C:\Users\Cong\source\repos\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\ref\Doanvat.Module.dll

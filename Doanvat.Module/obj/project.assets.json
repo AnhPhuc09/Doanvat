@@ -4374,23 +4374,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MSI_\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {}
+    "C:\\Users\\Cong\\.nuget\\packages\\": {},
+    "D:\\Gasaiyan\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Doanvat\\Doanvat\\Doanvat.Module\\Doanvat.Module.csproj",
+      "projectUniqueName": "C:\\Users\\Cong\\source\\repos\\Doanvat\\Doanvat\\Doanvat.Module\\Doanvat.Module.csproj",
       "projectName": "Doanvat.Module",
-      "projectPath": "D:\\C#\\Doanvat\\Doanvat\\Doanvat.Module\\Doanvat.Module.csproj",
-      "packagesPath": "C:\\Users\\MSI_\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Doanvat\\Doanvat\\Doanvat.Module\\obj\\",
+      "projectPath": "C:\\Users\\Cong\\source\\repos\\Doanvat\\Doanvat\\Doanvat.Module\\Doanvat.Module.csproj",
+      "packagesPath": "C:\\Users\\Cong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cong\\source\\repos\\Doanvat\\Doanvat\\Doanvat.Module\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
+        "D:\\Gasaiyan\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MSI_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cong\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4399,8 +4399,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\Gasaiyan\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

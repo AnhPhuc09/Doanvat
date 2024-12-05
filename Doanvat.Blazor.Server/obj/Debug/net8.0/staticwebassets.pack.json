@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "D:\\C#\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Cong\\source\\repos\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\C#\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Cong\\source\\repos\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\C#\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Id": "C:\\Users\\Cong\\source\\repos\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "PackagePath": "staticwebassets\\images\\Logo.svg"
     },
     {
-      "Id": "D:\\C#\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Id": "C:\\Users\\Cong\\source\\repos\\Doanvat\\Doanvat\\Doanvat.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
     },
     {
